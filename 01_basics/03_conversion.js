@@ -29,5 +29,24 @@ let value1=Boolean(isBoolean)
 let nums=34
 
 // let stringnums=String(nums)
-console.log(nums)
+// console.log(nums)
 
+// ------------------------------------OPERATION------------------------------------
+
+
+// let str1="Hello "
+// let str2="Raj"
+
+// let str3=str1+str2
+
+// console.log(str3)
+
+// console.log(1+2+"2")
+
+
+// console.log(true)
+// console.log(+"")
+
+
+
+console.log
