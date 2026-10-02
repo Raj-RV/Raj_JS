@@ -66,4 +66,22 @@ const {courseName:name}=course
 console.log(name)
 console.log(course["courseInstructor"]);
 
-// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// {
+//     name:"Raj",
+//     age:22,
+//     email:"raj@gmail.com"
+// }
+
+
+
+
+
+
+
+
+// [
+//     {}
+//     {}
+//     {}
+// ]
